@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 class BankAccount {
@@ -61,6 +60,5 @@ public class Main {
 
         System.out.printf("%.2f", account.calculateFinalBalance());
 
-        sc.close();
     }
 }
